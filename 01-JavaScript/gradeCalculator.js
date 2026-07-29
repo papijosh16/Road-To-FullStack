@@ -15,5 +15,5 @@ console.log(`Average: ${average}`);
 if (average >= 90){
     console.log("Status: Excellent");
 } else {
-    console.log("Status: good");
+    console.log("Status: Good");
 }
